@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    display: flex;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+button {
+    margin-left: 10px;
+}
+
+/* 시간 레이블의 우측 마진 추가 */
+label {
+    margin-right: 10px;
+}
